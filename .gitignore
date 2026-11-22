@@ -1,0 +1,25 @@
+# Your own settings and generated pages (may hold a private server address or API key)
+config.json
+cache/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dependencies, should any ever be added
+node_modules/
+
+# Logs, editors, operating system
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.claude/
