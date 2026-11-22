@@ -17,9 +17,6 @@ There is no search and no retrieval—just a direct look at the boundaries of th
 ![Kettle War](assets/kettle-war.png)
 **Kettle War:** An honest blank. The real one was a 1784 standoff between the Dutch Republic and the Holy Roman Empire whose only shot hit a soup kettle. The model didn't have it in its weights, said so instead of inventing a war, and filled the infobox with "not reliably attested".
 
-![Emu War](assets/emu-war.png)
-**Emu War:** A confident miss. The real one was Australia's 1932 military campaign against emus. The model kept the year, wrote up the Chaco War between Bolivia and Paraguay instead, and then drew two emus fighting anyway.
-
 ## Quick start
 
 Requires Python 3.9+ and any local model server with an OpenAI-compatible API. Zero external dependencies—WikiLLM uses only the Python standard library.
