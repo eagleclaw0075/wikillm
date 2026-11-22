@@ -2,7 +2,7 @@
 
 **Browse the edges of a local language model.**
 
-WikiLLM lets you explore what is actually inside those weights like an encyclopedia. Type any topic, and your local model generates the full article live: intro, infobox, sections, categories, and an inline SVG illustration. Every link leads to a page that does not exist yet; click it, and the model writes that one too.
+WikiLLM lets you browse language model weights like an encyclopedia. Type any topic, and your local model generates the full article live: intro, infobox, sections, categories, and an inline SVG illustration. Every link leads to a page that does not exist yet; click it, and the model writes that one too.
 
 There is no search and no retrieval—just a direct look at the boundaries of the network:
 - **What does it actually know?**
